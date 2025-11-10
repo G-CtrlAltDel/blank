@@ -54,7 +54,7 @@ public class Board {
     /**
      * @brief Costruttore di copia
      * @param[in] other La scacchiera da copiare
-     * @post
+     * @post post
      * La scacchiera creata è identica a other.
      */
     public Board(Board other) {
